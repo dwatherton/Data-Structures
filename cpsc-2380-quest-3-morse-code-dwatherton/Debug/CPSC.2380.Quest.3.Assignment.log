@@ -1,0 +1,8 @@
+﻿  Quest.3.cpp
+c:\users\michelle\source\repos\data structures and algorithms\cpsc-2380-quest-3-morse-code-dwatherton\quest.3.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\michelle\source\repos\data structures and algorithms\cpsc-2380-quest-3-morse-code-dwatherton\quest.3.cpp(173): warning C4018: '<': signed/unsigned mismatch
+c:\users\michelle\source\repos\data structures and algorithms\cpsc-2380-quest-3-morse-code-dwatherton\quest.3.cpp(228): warning C4018: '<': signed/unsigned mismatch
+c:\users\michelle\source\repos\data structures and algorithms\cpsc-2380-quest-3-morse-code-dwatherton\quest.3.cpp(251): warning C4018: '<': signed/unsigned mismatch
+c:\users\michelle\source\repos\data structures and algorithms\cpsc-2380-quest-3-morse-code-dwatherton\quest.3.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\michelle\source\repos\data structures and algorithms\cpsc-2380-quest-3-morse-code-dwatherton\quest.3.cpp(284): warning C4018: '<': signed/unsigned mismatch
+  CPSC.2380.Quest.3.Assignment.vcxproj -> C:\Users\Michelle\source\repos\Data Structures and Algorithms\cpsc-2380-quest-3-morse-code-dwatherton\Debug\CPSC.2380.Quest.3.Assignment.exe

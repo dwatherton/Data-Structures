@@ -1,0 +1,10 @@
+CSCO    Cisco_Systems,_Inc.             69.99   -0.18   3.11973e+06
+DIS     The_Walt_Disney_Company         109.89  -0.6    1.186e+06
+JNJ     Johnson_&_Johnson               139.73  -0.29   794835
+JPM     JPMorgan_Chase_&_Co.            116.19  -0.68   2.08135e+06
+KO      The_Coca-Cola_Company           48.17   -0.28   101002
+MCD     McDonald's_Corporation          171.62  -0.28   584790
+MMM     3M_Company                      248.01  0.0702  424381
+PFE     Pfizer_Inc.                     36.78   -0.06   3.20553e+06
+TRV     The_Travelers_Companies,_Inc.   999.99  0.43    186496
+WMT     Walmart_Inc.                    199.99  0.11    882535
